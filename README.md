@@ -2,9 +2,11 @@
 一个快速生成vue，react文件的脚手架，持续更新
 
 #安装
+
 (sudo) npm install wyfcli666 -g
 
 #使用
+
 创建项目
 wyf create project
 
