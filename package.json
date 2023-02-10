@@ -1,0 +1,26 @@
+{
+  "name": "wyf",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "wyf": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["why", "vue", "wyf"],
+  "author": "wyf",
+  "license": "MIT",
+  "homepage": "https://github.com/coderwhy/coderwhy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderwhy/coderwhy"
+  },
+  "dependencies": {
+    "commander": "^6.1.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5",
+    "open": "^7.3.0"
+  }
+}
